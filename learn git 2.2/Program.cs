@@ -8,7 +8,7 @@ namespace learn_git_2._2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
 
              
